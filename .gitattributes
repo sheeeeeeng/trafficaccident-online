@@ -1,4 +1,5 @@
 trafficaccident1 filter=lfs diff=lfs merge=lfs -text
 trafficaccident filter=lfs diff=lfs merge=lfs -text
+trafficaccident/public/Teachvideo/教育訓練影片交通大數據關聯平台verFin.mp4 filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
