@@ -5,4 +5,4 @@ views使用bootstrap套件構成，透過連接Mysql資料庫，調取並運算�
 ## 事故熱點分析
 採用了GIS系統結合K-means++計算事故熱點在地圖上的位置，並且設定巡邏點閥值，如果低於可返回熱點提醒，當作下次安排巡邏勤務參考依據
 
-![image](https://github.com/sheeeeeeng/trafficaccident-online/edit/master/trafficaccident_demo.png)
+![image](trafficaccident_demo.png)
